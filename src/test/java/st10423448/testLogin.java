@@ -4,7 +4,6 @@
  */
 package st10423448;
 
-import st10423448.Login;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
